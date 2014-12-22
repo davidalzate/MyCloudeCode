@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Mistica": {
+            "applicationId": "sujw3hDB2SVwphmcmh1ItB1ecEfxuq7yzUpqBy2S", 
+            "masterKey": "mUlU5w37pG75mfm0IUETjwQ1ks62cn4TcOzBiDv2"
+        }, 
+        "_default": {
+            "link": "Mistica"
+        }
+    }
+}
