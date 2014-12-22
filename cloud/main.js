@@ -11,8 +11,8 @@ Mandrill.sendEmail({
     from_name: "Cloud Code",
     to: [
       {
-        email: "you@parse.com",
-        name: "Your Name"
+        email: "davidalzate@gmail.com",
+        name: "Elegido"
       }
     ]
   },
@@ -29,5 +29,5 @@ Mandrill.sendEmail({
 });
 
 
-  
+
 });
